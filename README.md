@@ -31,6 +31,7 @@ To execute the program, change directories and execute:
 
 Example: (MacOS)
 ----
+```
 mcmicbe01:walmart micbe$ pwd
 /Users/micbe/Development/walmart
 
@@ -43,23 +44,4 @@ mcmicbe01:walmart micbe$ cd build/install/SeatAssigner/bin/
 
 mcmicbe01:bin micbe$ ./SeatAssigner /Users/micbe/Development/walmart/src/test/resources/TestInput3.txt
 /Users/micbe/Development/walmart/build/install/SeatAssigner/bin/output.txt
-
-mcmicbe01:bin micbe$ more output.txt
-R001 E10,E11
-R002 E12,E13,E14,E15
-R003 E5,E6,E7,E8,E9
-R004 E16,E17,E18,E19
-R005 E3,E4
-R006 E1,E2
-R007 F9,F10,F11,F12
-R008 F13,F14,F15,F16,F17
-R009 F5,F6,F7,F8
-R010 F3,F4
-R011 F18,F19
-R012 D9,D10,D11,D12
-R013 D13,D14,D15,D16,D17
-R014 D5,D6,D7,D8
-R015 F1,F2
-R016 G8,G9,G10,G11,G12,G13,G14
-R017 G1,G2,G3,G4,G5,G6,G7
-R018 C8,C9,C10,C11,C12,C13,C14
+```
